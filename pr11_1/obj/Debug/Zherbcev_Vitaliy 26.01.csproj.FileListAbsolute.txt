@@ -1,0 +1,10 @@
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy 26.01.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy_26._01.Student_Work.resources
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy_26._01.Properties.Resources.resources
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy 26.01.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy 26.01.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\bin\Debug\Zherbcev_Vitaliy 26.01.exe.config
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\bin\Debug\Zherbcev_Vitaliy 26.01.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\bin\Debug\Zherbcev_Vitaliy 26.01.pdb
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy 26.01.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\Zherbcev_Vitaliy 26.01\obj\Debug\Zherbcev_Vitaliy 26.01.pdb

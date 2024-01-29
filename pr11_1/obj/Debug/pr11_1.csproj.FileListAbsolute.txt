@@ -1,0 +1,10 @@
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\Zherbcev_Vitaliy_26._01.Student_Work.resources
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.Properties.Resources.resources
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\bin\Debug\pr11_1.exe.config
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\bin\Debug\pr11_1.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\bin\Debug\pr11_1.pdb
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\pr11_1\obj\Debug\pr11_1.pdb
